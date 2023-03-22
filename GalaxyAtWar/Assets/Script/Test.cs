@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("当前版本为2.0版本");
+        Debug.Log("当前版本为3.0版本");
     }
 
     // Update is called once per frame
